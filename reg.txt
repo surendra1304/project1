@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 welcome to registraton process
 user name : Siva kumar 
+=======
+welcome to registration process
+user name : kiran kumar
+>>>>>>> registration
